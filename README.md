@@ -4,4 +4,4 @@
 1. npm install
 1. bower install  
 1. gulp
-### or **See on: [Summary.esy.es](http://forserverlol.esy.es/Summary/app/)**  
+### Or **see on: [Summary.esy.es](http://forserverlol.esy.es/Summary/app/)**  
